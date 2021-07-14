@@ -9,3 +9,5 @@
 - https://grpc.io/docs/guides/error/
 - https://grpc.io/blog/deadlines/
 - https://grpc.io/docs/guides/auth/
+- https://github.com/googleapis/googleapis/blob/master/google/pubsub/v1/pubsub.proto
+- https://github.com/googleapis/googleapis/blob/master/google/spanner/v1/spanner.proto
