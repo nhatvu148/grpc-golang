@@ -11,3 +11,4 @@
 - https://grpc.io/docs/guides/auth/
 - https://github.com/googleapis/googleapis/blob/master/google/pubsub/v1/pubsub.proto
 - https://github.com/googleapis/googleapis/blob/master/google/spanner/v1/spanner.proto
+- https://jbrandhorst.com/post/gogoproto/
