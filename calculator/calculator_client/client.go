@@ -28,7 +28,7 @@ func main() {
 	c := calculatorpb.NewCalculatorServiceClient(cc)
 	// fmt.Printf("Created client: %f", c)
 
-	doUnary(c)
+	// doUnary(c)
 
 	// doServerStreaming(c)
 
@@ -36,7 +36,7 @@ func main() {
 
 	// doBiDiStreaming(c)
 
-	// doErrorUnary(c)
+	doErrorUnary(c)
 }
 
 func doUnary(c calculatorpb.CalculatorServiceClient) {
