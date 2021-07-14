@@ -6,6 +6,7 @@
 - yarn global add grpc-tools grpc_tools_node_protoc_ts
 - which grpc_tools_node_protoc_plugin
 - which protoc-gen-ts
+- https://stackoverflow.com/questions/59447763/node-js-grpc-out-protoc-gen-grpc-1-is-not-a-valid-win32-application
 
 # References:
 
