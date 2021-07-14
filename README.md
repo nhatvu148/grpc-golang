@@ -3,6 +3,10 @@
 - go get -u google.golang.org/grpc
 - go get -u github.com/golang/protobuf/protoc-gen-go
 
+- yarn global add grpc-tools grpc_tools_node_protoc_ts
+- which grpc_tools_node_protoc_plugin
+- which protoc-gen-ts
+
 # References:
 
 - https://avi.im/grpc-errors/
